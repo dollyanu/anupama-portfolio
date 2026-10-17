@@ -101,7 +101,8 @@ export const projects = [
     image: projectImg2,
     tech: ["Next.js", "Tailwind CSS", "Framer Motion", "Markdown"],
     icons: [FaReact, FaCloud],
-    live: "http://localhost:5173/"
+    live: "https://dollyanu.github.io/anupama-portfolio/",
+    code: "https://github.com/dollyanu/anupama-portfolio"
   },
   {
    title: "PgHub - Student Accommodation",
